@@ -1,6 +1,6 @@
 ## Bank Customer Churn Prediction
 
-This case study focuses on building a machine learning model to predict customer churn for a bank. Customer churn, which refers to customers leaving a company or service, is a critical issue for businesses as it directly impacts revenue and growth. By accurately predicting which customers are likely to churn, the bank can take proactive measures to retain them, ultimately improving customer satisfaction and reducing customer acquisition costs.
+This is a case study demonstrating an end-to-end process of building a binary classification model to predict customer churn for a bank. Customer churn, which refers to customers leaving a company or service, is a critical issue for businesses as it directly impacts revenue and growth. By accurately predicting which customers are likely to churn, the bank can take proactive measures to retain them, ultimately improving customer satisfaction and reducing customer acquisition costs.
 
 The case study utilizes a dataset containing information about bank customers, including their demographic characteristics, account details, and whether they have churned or not. The goal is to develop a robust binary classification model that can accurately identify customers who are likely to leave the bank based on the available features.
 
@@ -19,5 +19,3 @@ The project follows a structured approach to building and evaluating the classif
 5. **Model Evaluation**: The models are evaluated on a validation set using various metrics, including confusion matrices, classification reports, ROC AUC scores, and ROC curves. These metrics provide insights into the models' strengths and weaknesses in predicting customer churn.
 
 6. **Model Selection**: Based on the evaluation results, the best-performing model is selected for potential deployment, considering factors such as model performance, complexity, and interpretability, as well as specific business requirements.
-
-The project demonstrates the end-to-end process of building a binary classification model, from data exploration and preprocessing to model development, hyperparameter tuning, and evaluation. The techniques employed, such as ensemble methods and Bayesian optimization, showcase advanced machine learning concepts and their practical applications in solving real-world problems.
