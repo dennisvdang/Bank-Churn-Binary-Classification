@@ -1,3 +1,5 @@
+![churn](churn.png)
+
 ## Bank Customer Churn Prediction
 
 This is a case study demonstrating an end-to-end process of building a binary classification model to predict customer churn for a bank. Customer churn, which refers to customers leaving a company or service, is a critical issue for businesses as it directly impacts revenue and growth. By accurately predicting which customers are likely to churn, the bank can take proactive measures to retain them, ultimately improving customer satisfaction and reducing customer acquisition costs.
